@@ -8,7 +8,7 @@ Me especializo en transformar datos complejos en información accionable para op
 ### 🛠️ Tecnologías y Herramientas
 * **Lenguajes:** Python (Pandas, Numpy), SQL.
 * **Visualización:** Matplotlib, Seaborn, manejo avanzado de Google Sheets/Excel.
-* **Áreas de interés:** Análisis de indicadores educativos, optimización de stock y procesos operativos.
+* **Áreas de interés:** Análisis de indicadores, aprendizaje automático, comunicación de insights.
 
 ### 🚀 Proyectos Destacados
 * **Análisis de Indicadores Educativos (NEA):** Investigación sobre tendencias de educación en el Noreste Argentino.
